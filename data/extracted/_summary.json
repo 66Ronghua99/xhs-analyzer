@@ -1,0 +1,41 @@
+{
+  "total_videos": 4,
+  "successful": 4,
+  "failed": 0,
+  "results": [
+    {
+      "status": "success",
+      "video": "vibecoding大赏话题_人工智能话题_AI话题_大模型话题_ClaudeCode话题_科技薯.mp4",
+      "text_length": 6509,
+      "segments": 521,
+      "duration": 0,
+      "elapsed_time": 259.64123010635376
+    },
+    {
+      "status": "success",
+      "video": "人工智能话题_AI话题_debug话题_vibecoding话题.mp4",
+      "text_length": 2303,
+      "segments": 214,
+      "duration": 0,
+      "elapsed_time": 68.60146522521973
+    },
+    {
+      "status": "success",
+      "video": "人工智能话题_AI话题_播客话题.mp4",
+      "text_length": 2737,
+      "segments": 246,
+      "duration": 0,
+      "elapsed_time": 83.70706391334534
+    },
+    {
+      "status": "success",
+      "video": "你不该错过任何一个karpathy的视频karpathy最新访谈我们正在召唤幽灵_人工智能话题_AI.mp4",
+      "text_length": 2628,
+      "segments": 265,
+      "duration": 0,
+      "elapsed_time": 92.67068982124329
+    }
+  ],
+  "model": "whisper-small",
+  "timestamp": "2026-02-26 11:29:01"
+}
