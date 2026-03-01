@@ -273,12 +273,7 @@
 | **Plan Mode** | Cloud Code中的规划模式，先讨论方案再执行 |
 | **Play Mode** | Cloud Code中的执行模式，自动完成任务 |
 
-### 附录B: 参考资料
-
-- 视频字幕来源：`/Users/cory/.openclaw/workspace/xhs_analyzer/data/extracted/`
-- 分析方法：基于4个视频字幕的文本分析（共约37,500字）
-
-### 附录C: 工具推荐
+### 附录B: 工具推荐
 
 | 工具 | 用途 |
 |------|------|
